@@ -1,4 +1,5 @@
 Walmart Black Friday Customer Purchase Behavior Analysis:
+- Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in the United States and 23 other countries.
 
 In this project, I analyzed Walmart's customer purchase behavior during Black Friday, focusing on purchase amounts in relation to gender and other factors. The analysis revealed that men made about three times more purchases than women, with a significant difference in average spending between genders—men's average spending was approximately 8735. The study also found that city category B saw the highest spending and that nearly 60% of customers were married, though marital status did not significantly impact spending habits. I identified no missing data, but outliers accounted for 1.24% of total spending, representing unusually high purchase amounts.
 
